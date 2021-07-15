@@ -1,12 +1,12 @@
 ### Hola, Bienvenido a Samu´s world ... (?) 👋
 
 <!--
-**samusisto/samusisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**samusisto/samusisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Actualmente estoy trabajando en este perfil y pronto, verás los cambios. Pero no dejes de visitar cada tanto 
+Actualmente estoy trabajando en este perfil y pronto verás los cambios. Pero no dejes de visitar cada tanto 
 porque uso github todos los días.
 Abrazo !!
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
