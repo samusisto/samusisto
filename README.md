@@ -1,4 +1,4 @@
-### Hola, Bienvenido a Samu´s world ... (?) 👋
+### Hola, Bienvenido a mi versión free-lancer ... (?) 👋
 
 <!--
 **samusisto/samusisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
